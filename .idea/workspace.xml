@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="191e64af-f0f8-40a5-8db5-9a6d8dc562f9" name="Changes" comment="Learned Data types">
-      <change afterPath="$PROJECT_DIR$/type_casting.py" afterDir="false" />
+    <list default="true" id="191e64af-f0f8-40a5-8db5-9a6d8dc562f9" name="Changes" comment="Learned Type Casting">
+      <change afterPath="$PROJECT_DIR$/user_input_exercise_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_input_exercise_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_inputs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +37,9 @@
     &quot;accountId&quot;: &quot;e3bc31fc-af6e-48d1-ad29-67b1b91462f4&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -51,13 +56,16 @@
     "Python.main.executor": "Run",
     "Python.python_variables.executor": "Run",
     "Python.type_casting.executor": "Run",
+    "Python.user_input_exercise_1.executor": "Run",
+    "Python.user_input_exercise_2.executor": "Run",
+    "Python.user_inputs.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.type_casting">
+  <component name="RunManager">
     <configuration name="python_variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice" />
       <option name="ENV_FILES" value="" />
@@ -96,8 +104,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="user_input_exercise_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/user_input_exercise_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="user_inputs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/user_inputs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.user_input_exercise_1" />
+        <item itemvalue="Python.user_inputs" />
         <item itemvalue="Python.type_casting" />
         <item itemvalue="Python.python_variables" />
       </list>
@@ -143,13 +197,22 @@
       <option name="project" value="LOCAL" />
       <updated>1744264398973</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Learned Type Casting">
+      <option name="closed" value="true" />
+      <created>1744266255825</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744266255825</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Message in main.py and to be continue for python_variables.py in next free time" />
     <MESSAGE value="Learned Data types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learned Data types" />
+    <MESSAGE value="Learned Type Casting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learned Type Casting" />
   </component>
 </project>
